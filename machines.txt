@@ -1,0 +1,12 @@
+Dig Dug,1981,Namco,1
+Dragon's Lair,1983,Cinematronics,3
+Stranger Things Premium (Pinball),2019,Stern,4
+Centipede,1980,Atari Inc,2
+Galaga,1981,Namco,3
+Asteroids,1979,Atari Inc,1
+Ms Pac Man,1982,Midway Manufacturing,2
+Pac-Man,1980,Midway Manufacturing,2
+Tempest,1981,Atari Inc,1
+Godzilla Premium (Pinball),2021,Stern,4
+The Simpsons,2001,Midway,4
+Josh Pinball,2022,Me,5
